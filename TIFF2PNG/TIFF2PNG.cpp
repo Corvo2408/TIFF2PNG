@@ -1,4 +1,4 @@
-#include <FreeImage.h>
+#include "FreeImage.h"
 #include <iostream>
 #include <string>
 #include <filesystem>
